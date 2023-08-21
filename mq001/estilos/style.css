@@ -67,6 +67,7 @@ span#burguer{
     display: block;
     text-align: center;
     padding: 10px;
+    user-select: none;
 }
 
 span#burguer:hover{
